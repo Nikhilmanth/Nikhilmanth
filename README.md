@@ -1,57 +1,61 @@
-<h1 align="center">Hi 👋, I'm Nikhil </h1>
-<h3 align="center">Full Stack Developer | CSE Student (Batch 2024-2028)</h3>
+<p align="center">
+  <img src="./banner.svg" width="900" alt="Nikhil Manth banner" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nikhilmanth&label=Profile%20views&color=0e75b6&style=flat" alt="Nikhilmanth" />
+  <a href="https://www.linkedin.com/in/nikhil-manth/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Nikhilmanth" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/github/followers/Nikhilmanth?label=FOLLOWERS&style=for-the-badge&color=1DB954&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=Nikhilmanth&label=VISITORS&style=for-the-badge&color=555555" />
 </p>
 
-- 🌱 I'm a Computer Science Engineering student (2024–2028)
-- 💻 I'm a Full Stack Developer, building projects with modern web technologies
-- 🚀 I love working with **React.js**, **Node.js**, and **MongoDB**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nikhil-manth/)
-- ⚡ Fun fact: Always learning, always building!
+<br/>
 
----
+```txt
++----------------------------------------------------+
+|                NIKHIL-OS  v1.0-cse                  |
++------------------------------------------------------
+| [ SYS ]  Loading identity modules ........ [ OK ]   |
+| [ NET ]  Connecting to GitHub universe ... [ OK ]   |
+| [ AI  ]  Booting developer mindset ....... [ OK ]   |
+| [ SEC ]  Initializing ethical firewall ... [ OK ]   |
+| [ PKG ]  Installing caffeine ............. [FAIL]   |
+| [ GIT ]  git push origin main --force .... [ OK ]   |
++------------------------------------------------------
+```
 
-### 🌐 Connect with me
+<br/>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/nikhil-manth/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Nikhilmanth" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### 🛠️ Skills — click any icon to visit its official site
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://cplusplus.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" /></a>
 </p>
 
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
+<br/>
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhilmanth&show_icons=true&theme=radical" alt="Nikhilmanth's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhilmanth&theme=radical" alt="Nikhilmanth's Streak" height="165"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhilmanth&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhilmanth&theme=radical" height="165" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilmanth&layout=compact&theme=radical" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilmanth&layout=compact&theme=radical" />
 </p>
-
----
 
 <p align="center"><i>Thanks for visiting my profile! Feel free to connect 🚀</i></p>
