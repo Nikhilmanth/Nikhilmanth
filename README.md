@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.statically.io/gh/Nikhilmanth/Nikhilmanth/main/banner.svg" width="900" alt="Nikhil banner" />
+  <img src="https://cdn.jsdelivr.net/gh/Nikhilmanth/Nikhilmanth@main/banner.svg" width="900" alt="Nikhil banner" />
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 ## 🧬 Identity
 
 <p align="center">
-  <img src="https://cdn.statically.io/gh/Nikhilmanth/Nikhilmanth/main/identity.svg" width="900" alt="Identity card" />
+  <img src="https://cdn.jsdelivr.net/gh/Nikhilmanth/Nikhilmanth@main/identity.svg" width="900" alt="Identity card" />
 </p>
 
 <br/>
@@ -83,7 +83,7 @@
 ## 📡 Skills Loading...
 
 <p align="center">
-  <img src="https://cdn.statically.io/gh/Nikhilmanth/Nikhilmanth/main/skills-loading.svg" width="900" alt="Skills loading card" />
+  <img src="https://cdn.jsdelivr.net/gh/Nikhilmanth/Nikhilmanth@main/skills-loading.svg" width="900" alt="Skills loading card" />
 </p>
 
 <br/>
@@ -134,5 +134,5 @@
 <p align="center"><sub>Building since 2024 · Still going · Connection closed by remote host.</sub></p>
 
 <p align="center">
-  <img src="https://cdn.statically.io/gh/Nikhilmanth/Nikhilmanth/main/wave.svg" width="900" alt="wave footer" />
+  <img src="https://cdn.jsdelivr.net/gh/Nikhilmanth/Nikhilmanth@main/wave.svg" width="900" alt="wave footer" />
 </p>
