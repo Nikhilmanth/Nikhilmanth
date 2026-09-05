@@ -16,7 +16,7 @@
   <!-- row 1 -->
   <rect x="20" y="10" width="6" height="50" class="accent"/>
   <text x="55" y="45" class="label">🎓 Education</text>
-  <text x="290" y="45" class="value">CSE · Full Stack Dev · (LPU) · Batch 2024-2028</text>
+  <text x="290" y="45" class="value">CSE · Full Stack Dev · LPU · Batch 2024-2028</text>
   <line x1="40" y1="60" x2="860" y2="60" class="sep"/>
 
   <!-- row 2 -->
